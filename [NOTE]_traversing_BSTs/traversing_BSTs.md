@@ -22,3 +22,7 @@ The result of traversal for the Inorder would be: `[A, B, C, D, E, F, G, H, I]`
 ### Postorder
 Inorder traversals follow this order `left > right > root`. So it starts at the root follows the left node first before traversing the whole right node.
 The result of traversal for the Inorder would be: `[A, B, C, D, E, G, H, I, F]`
+
+
+#### Acknowlegements
+Check out the full video of this tutorial by `LucidProgramming` with code samples [here](https://www.youtube.com/watch?v=6oL-0TdVy28)
