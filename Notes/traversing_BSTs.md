@@ -20,8 +20,8 @@ Inorder traversals follow this order `left > root > right`. So it starts at the 
 The result of traversal for the Inorder would be: `[A, B, C, D, E, F, G, H, I]`
 
 ### Postorder
-Inorder traversals follow this order `left > right > root`. So it starts at the root follows the left node first before traversing the whole right node.
-The result of traversal for the Inorder would be: `[A, B, C, D, E, G, H, I, F]`
+Postorder traversals follow this order `left > right > root`. So it starts at the root follows the left node first before traversing the whole right node.
+The result of traversal for the Postorder would be: `[A, B, C, D, E, G, H, I, F]`
 
 
 #### Acknowlegements
