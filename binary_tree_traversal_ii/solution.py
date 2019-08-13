@@ -15,7 +15,7 @@ class Solution(object):
             return []
         
         # store the level result in an array
-        result,  = []
+        result = []
 
         # initialise the nodes with the root.
         current = [root]
