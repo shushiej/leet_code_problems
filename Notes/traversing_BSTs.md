@@ -24,5 +24,5 @@ Postorder traversals follow this order `left > right > root`. So it starts at th
 The result of traversal for the Postorder would be: `[A, B, C, D, E, G, H, I, F]`
 
 
-#### Acknowlegements
+#### Acknowledgements
 Check out the full video of this tutorial by `LucidProgramming` with code samples [here](https://www.youtube.com/watch?v=6oL-0TdVy28)
