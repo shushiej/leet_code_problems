@@ -1,4 +1,4 @@
-### Web Shop
+### SQL JOINS
 
 Each item in a web shop belongs to a seller. To ensure service quality, each seller has a rating.
 

@@ -1,4 +1,4 @@
-### Students
+### SQL AGGREGATIONS
 
 Given the following data definition, write a query that returns the number of students whose first name is John. String comparisons should be case sensitive.
 

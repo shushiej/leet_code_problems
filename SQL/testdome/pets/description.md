@@ -1,4 +1,4 @@
-### Pets
+### SQL UNIONS AND AGGREGATIONS
 
 Information about pets is kept in two separate tables:
 

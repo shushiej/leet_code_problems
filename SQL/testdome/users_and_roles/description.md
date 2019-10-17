@@ -1,4 +1,4 @@
-### (SQL CONSTRAINTS)
+### SQL CONSTRAINTS
 
 The following two tables are used to define users and their respective roles:
 

@@ -1,4 +1,4 @@
-### Sessions
+### SQL AGGREGATIONS
 
 App usage data are kept in the following table:
 ```
